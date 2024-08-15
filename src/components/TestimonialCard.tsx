@@ -4,7 +4,7 @@ function TestimonialCard() {
       <div className='flex items-center gap-4 self-stretch'>
         <div className='w-12 h-12'>
           <img
-            src='/img/profile-thumbnail.png'
+            src='img/profile-thumbnail.png'
             className='w-12 h-12 object-cover'
           ></img>
         </div>
