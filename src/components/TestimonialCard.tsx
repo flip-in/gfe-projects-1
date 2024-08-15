@@ -1,6 +1,6 @@
 function TestimonialCard() {
   return (
-    <div className='w-[340px] flex flex-col gap-4 bg-white p-6 rounded-lg shadow'>
+    <article className='w-[340px] flex flex-col gap-4 bg-white p-6 rounded-lg shadow'>
       <div className='flex items-center gap-4 self-stretch'>
         <div className='w-12 h-12'>
           <img
@@ -22,7 +22,7 @@ function TestimonialCard() {
         projects, and I'm thrilled to have found this platform. The variety and
         depth of creativity are astounding!
       </span>
-    </div>
+    </article>
   );
 }
 

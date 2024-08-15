@@ -1,6 +1,6 @@
 function Footer() {
   return (
-    <div className='credits' data-gfe-screenshot-exclude='true'>
+    <footer className='credits' data-gfe-screenshot-exclude='true'>
       A challenge by
       <a
         href='https://www.greatfrontend.com/projects?ref=challenges'
@@ -11,14 +11,14 @@ function Footer() {
       </a>
       . Built by
       <a
-        href='https://www.greatfrontend.com/projects/u/username'
+        href='https://www.greatfrontend.com/projects/u/flip-in'
         target='_blank'
       >
         {' '}
         Your Name
       </a>
       .
-    </div>
+    </footer>
   );
 }
 
